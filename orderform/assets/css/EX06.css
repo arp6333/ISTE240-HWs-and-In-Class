@@ -1,0 +1,16 @@
+/*
+* Ellie Parobek
+* 3/01/18
+* EX06 CSS
+*/
+
+body{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Verdana;
+}
+
+p{
+    left: 0px;
+    position: relative;
+}
